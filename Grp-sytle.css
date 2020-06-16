@@ -1,7 +1,4 @@
-a
-{
-    text-decoration: none;
-}
+
 .selected{
     font-weight: bold;
     font-family: sans-serif,fantasy;
@@ -23,12 +20,11 @@ body{
     height: auto;
     text-align: center;
 }
-#content{
+#content{}
 
     
 #Main{
    margin-left: auto;
-    width: 1050;
 }
 #footer{
     clear: both;
